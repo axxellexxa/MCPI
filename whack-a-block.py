@@ -20,7 +20,7 @@ time.sleep(1)
 mc.postToChat("Have fun!")
 time.sleep(5)
 
-# To get the player's position
+# To get the your position
 pos = mc.player.getTilePos()
 
 # Variables for the blocks
