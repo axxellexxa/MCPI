@@ -9,5 +9,5 @@ thanks! :D
 1) Open whack-a-block.py
 2) Open Minecraft Pi Edition
 3) Go to the window for whack-a-block.py and press F5
-4) Go back to MInecraft
+4) Go back to Minecraft
 5) Enjoy!
