@@ -31,6 +31,10 @@ death = block.GLOWING_OBSIDIAN.id
 white = block.WOOL.id
 black = block.OBSIDIAN.id
 
+# To make space for the gameboard
+mc.setBlocks(pos.x - 2, pos.y, pos.z,
+             pos.x + 2, pos.y + 2, pos.z + 4,
+             0)
 # To make the gameboard
 mc.setBlocks(pos.x - 1, pos.y, pos.z + 4,
              pos.x + 1, pos.y + 2, pos.z + 4,
